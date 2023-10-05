@@ -1,0 +1,21 @@
+.rightside{
+    float: right;
+    position: absolute;
+    top: 0px;
+    margin-left: 22%;
+    background-color: rgb(214, 212, 212);
+}
+
+.inmain{
+    display: flex;
+}
+
+.leftcontainer{
+    flex: 2;
+    
+}
+
+.rightcontainer{
+    float: right;
+    flex: 1.5;
+}

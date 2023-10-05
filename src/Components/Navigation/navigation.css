@@ -1,0 +1,56 @@
+.inputsearch{
+    display: inline-block;
+    
+
+}
+
+.navigationcontainer {
+    display: flex;
+    
+}
+
+.inputsearch{
+    margin-top: 8px;
+    left: 50%;
+}
+
+.search{
+    margin-left: 150px;
+    border-radius: 5px;
+    height: 20px;
+    width: 200px;
+    padding-left: 20px;
+}
+
+.iconlist{
+    color: rgb(2, 163, 163);
+    margin-left: 30px;
+    margin-top: 6px;   
+}
+
+.iconlist:hover{
+    color: rgb(3, 85, 85);
+}
+
+.iconlist1:hover{
+    color: rgb(2, 158, 158);
+}
+
+.mainicon{
+    margin-left: 50px;
+}
+
+.profile{
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 5px;
+    cursor: pointer;
+
+
+}
+
+.headcontainer{
+    font-size: 25px;
+    font-weight:bold;
+}

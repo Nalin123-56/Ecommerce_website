@@ -1,0 +1,33 @@
+.firtst{
+    width: 35px;
+    padding-left: 10px;
+    margin-top: 7px;
+}
+
+.imagefir{
+    display: flex;}
+
+.beat{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+    
+}
+
+
+
+
+
+.review{
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(78, 78, 78);
+    margin-left: 5px;
+}
+
+.pric{
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(78, 78, 78);
+    margin-left: 30px;
+}

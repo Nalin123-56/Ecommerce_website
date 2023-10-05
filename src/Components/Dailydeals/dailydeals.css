@@ -1,0 +1,29 @@
+.mid{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 30px;
+    
+
+.viewall{
+    display: flex;
+    cursor: pointer;
+}
+}
+
+.viewall{
+    padding-left: 70px;
+    color: rgb(88, 87, 87);
+    
+}
+
+
+.span{
+    font-weight: bold;
+    color: rgb(4, 81, 133);
+    cursor: pointer;
+
+}
+
+.view{
+ padding-top: 3px;
+}
